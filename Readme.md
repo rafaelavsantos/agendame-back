@@ -1,7 +1,7 @@
 # AgendaMe Saas
 - Projeto FullStack desenvolvido para o entender o desenvolvido completo de uma aplicação Saas
 
-# 🚀 Instalação e Execução do Projeto Laravel (Linux)
+## 🚀 Instalação e Execução do Projeto Laravel (Linux)
 
 ## 📋 Pré-requisitos
 Antes de iniciar, certifique-se de ter instalado no seu sistema:
@@ -31,13 +31,11 @@ sudo apt install composer -y
 
 ```
 
-
 ## 4️⃣ Clonar o repositório do projeto
 
 ```bash
 git clone https://github.com/usuario/repositorio.git
 cd repositorio
-
 ```
 
 ## 5️⃣ Instalar dependências do Laravel
@@ -47,6 +45,7 @@ composer install
 ```
 
 ## 6️⃣ Configurar variáveis de ambiente
+- Edite o arquivo .env para configurar banco de dados e outras variáveis.
 
 ## 7️⃣ Executar migrações (se houver)
 
